@@ -1,2 +1,2 @@
-# adivina-el-numero
+# Adivina-el-numero
 Mini juego con JavaScript puro
